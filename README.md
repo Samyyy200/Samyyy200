@@ -2,6 +2,7 @@
 
 ![Welcome](https://media.giphy.com/media/26tOZ42H93xECqFv6/giphy.gif)
 
+
 Hi, I’m Ahmed Samy—a beginner passionate about Web Development and Java programming. Currently learning and building projects with React, Java, and Spring Boot.
 
 Feel free to explore my work, check out my progress, and let’s connect! 💬
