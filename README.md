@@ -1,6 +1,7 @@
 # 👋 Welcome to My GitHub! 🚀
 
-![Welcome](https://media.giphy.com/media/2xKwrOgTzUQdO/giphy.gif)
+![Welcome](https://media.giphy.com/media/hpZl60LMHeJ2w/giphy.gif)
+
 
 
 
