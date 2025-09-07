@@ -1,6 +1,7 @@
 # 👋 Welcome to My GitHub! 🚀
 
-![Welcome](https://media.giphy.com/media/26tOZ42H93xECqFv6/giphy.gif)
+![Welcome](https://media.giphy.com/media/2xKwrOgTzUQdO/giphy.gif)
+
 
 
 Hi, I’m Ahmed Samy—a beginner passionate about Web Development and Java programming. Currently learning and building projects with React, Java, and Spring Boot.
